@@ -173,13 +173,19 @@ A typical card gets **2–4 tags**: one `sys::`, one `task::`, and optionally a 
 6. **Audit pass** — check for duplicate/near-duplicate tags, orphans, naming drift
    (extend `tools/anki_audit.py` with a tag-consistency report).
 
-## Open decisions for you
+## Decisions (resolved v0.2)
 
-- **Tag namespace:** keep `sys::cardiovascular` collection-wide (reusable across your MCAT
-  / Patho_Pharm decks — more powerful) vs. prefix everything under `cc::` (isolated to
-  Critical Care — simpler but siloed again). Recommendation: **collection-wide**, since the
-  whole point is cross-cutting.
-- **Granularity of `sys::` leaves:** the tree above is a starting point — some leaves
-  (e.g. `ecg::intervals`) could merge or split based on how you actually study.
-- **Drug/device instance tags:** worth it for high-frequency entities (amiodarone, PA
-  catheter); probably overkill for one-off drugs.
+- **Tag namespace → `cc::` root (Critical-Care-scoped).** All facet tags are prefixed
+  with `cc::`, e.g. `cc::sys::cardiovascular::ecg::dysrhythmia::atrial`,
+  `cc::task::management`. Self-contained; does not touch other decks. (Trade-off
+  acknowledged: not reusable across MCAT/Patho_Pharm — can be promoted to collection-wide
+  later by dropping the `cc::` prefix.)
+- **Instance tags (`drug::`, `device::`) → deferred.** Drugs/devices are captured via
+  `cc::sys::…` + `cc::type::drug`/`type::device` + search, not per-entity tags. Revisit if
+  gathering scattered entities (amiodarone, PA catheter) proves painful.
+
+### Still open
+- **Granularity of `sys::` leaves** — the tree is a starting point; some leaves
+  (e.g. `ecg::intervals`) may merge/split based on how you actually study.
+- See `critical-care-tag-draft-50.md` → "Schema adjustments surfaced by this draft" for
+  refinements discovered while tagging real cards.

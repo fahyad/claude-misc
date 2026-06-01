@@ -62,19 +62,15 @@ def extract_db(path: str, workdir: str) -> str:
 
     with zipfile.ZipFile(path) as zf:
         names = set(zf.namelist())
-        # Prefer the newest plain-SQLite member.
-        for candidate in ("collection.anki21", "collection.anki2"):
-            if candidate in names:
-                out = os.path.join(workdir, candidate)
-                with zf.open(candidate) as src, open(out, "wb") as dst:
-                    dst.write(src.read())
-                return out
 
+        # Modern exports (without "support older versions") store the real
+        # collection zstd-compressed as collection.anki21b, alongside a stub
+        # collection.anki2 placeholder -- so the compressed member, when
+        # present, is the authoritative one and must win.
         if "collection.anki21b" in names:
-            raw = os.path.join(workdir, "collection.anki21b")
-            with zf.open("collection.anki21b") as src, open(raw, "wb") as dst:
-                dst.write(src.read())
             try:
+                import io
+
                 import zstandard  # type: ignore
             except ImportError as exc:  # pragma: no cover - environment dependent
                 raise SystemExit(
@@ -84,19 +80,38 @@ def extract_db(path: str, workdir: str) -> str:
                     "'zstandard' package (pip install zstandard) and re-run."
                 ) from exc
             out = os.path.join(workdir, "collection.anki2")
-            with open(raw, "rb") as fh:
-                data = zstandard.ZstdDecompressor().decompress(fh.read())
+            raw = zf.read("collection.anki21b")
+            # Anki's frames may omit the content-size header, so stream-decode.
+            data = zstandard.ZstdDecompressor().stream_reader(io.BytesIO(raw)).read()
             with open(out, "wb") as fh:
                 fh.write(data)
             return out
 
+        # Legacy / "support older versions" exports: plain SQLite members.
+        for candidate in ("collection.anki21", "collection.anki2"):
+            if candidate in names:
+                out = os.path.join(workdir, candidate)
+                with zf.open(candidate) as src, open(out, "wb") as dst:
+                    dst.write(src.read())
+                return out
+
     raise SystemExit(f"No Anki collection DB found inside {path!r}.")
+
+
+def _unicase_collation(a: str, b: str) -> int:
+    """Approximate Anki's custom 'unicase' collation (Unicode case-fold)."""
+    a, b = a.casefold(), b.casefold()
+    return (a > b) - (a < b)
 
 
 def connect_readonly(db_path: str) -> sqlite3.Connection:
     uri = f"file:{os.path.abspath(db_path)}?mode=ro"
     conn = sqlite3.connect(uri, uri=True)
     conn.row_factory = sqlite3.Row
+    # Modern Anki schemas declare a custom 'unicase' collation on text columns
+    # (deck/tag names, sort fields). Stock SQLite lacks it, so register an
+    # equivalent or any query touching those columns errors out.
+    conn.create_collation("unicase", _unicase_collation)
     return conn
 
 

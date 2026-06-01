@@ -1,0 +1,13 @@
+# Python
+__pycache__/
+*.pyc
+
+# Generated audit reports
+audit-report.md
+*.audit.md
+
+# Generated test fixtures (rebuilt via tests/make_fixture.py)
+tests/fixtures/
+
+# Keep the decks/ folder but ignore nothing inside by default —
+# your exported collection is meant to be committed (see decks/README.md).

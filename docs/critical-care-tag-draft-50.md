@@ -1,3 +1,7 @@
+> ⚠️ **SUPERSEDED by [`critical-care-tag-system.md`](critical-care-tag-system.md) (v1.0).**
+> These tags were anchored to the old subdeck structure; the v1.0 system re-derives tags
+> from the research. Kept for history only.
+
 # Critical Care — 50-card tagging draft (v0.2)
 
 _Proposal only — nothing applied to the collection. A representative sample of 50 real

@@ -1,3 +1,7 @@
+> ⚠️ **SUPERSEDED by [`critical-care-tag-system.md`](critical-care-tag-system.md) (v1.0).**
+> This draft was anchored to the old subdeck hierarchy; v1.0 is rebuilt from the research
+> findings. Kept for history only.
+
 # Critical Care — faceted tag schema (DRAFT v0.1)
 
 _Proposal only. No changes have been made to the collection. Grounded in

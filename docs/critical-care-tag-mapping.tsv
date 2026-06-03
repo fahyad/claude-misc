@@ -1,0 +1,258 @@
+note_id	old_deck	front	systems	knowledge	confidence
+1762487324825	CVS	5 Lead ECG color placement	cardiovascular	diagnostics	ok
+1762488540680	CVS	12 Lead ECG, where to place V1-V6 electrodes?	cardiovascular	diagnostics	ok
+1762488710171	CVS	Is the ECG tracing upward or downward? Average current flow is towards	cardiovascular	diagnostics	ok
+1762488756614	CVS	Is the ECG tracing upward or downward? Average current flow is towards	cardiovascular	diagnostics	ok
+1762492549939	CVS	In 12 lead ECG, which leads are unipolar (Augmented)?	cardiovascular	diagnostics	ok
+1762492661218	CVS	AVR lead: Identify the positive and negative pole	cardiovascular	diagnostics	ok
+1762494062168	CVS	Lead I : Identify positive and negative pole	cardiovascular	diagnostics	ok
+1762494119507	CVS	Lead II : Identify positive and negative pole	cardiovascular	diagnostics	ok
+1762494185696	CVS	Lead III : idenitfy positve and negative pole	cardiovascular	diagnostics	ok
+1762495196982	CVS	Where to place limb leads and why? (12 lead ECG)	cardiovascular	diagnostics	ok
+1762495299905	CVS	What leads view the heart in the vertical plane ? Horizontal plane ?	cardiovascular	diagnostics	ok
+1762527997453	CVS	Range and what it represents: PR	cardiovascular	physiology	ok
+1762534959779	CVS	Causes of T-wave inversion ?	cardiovascular	etiology	ok
+1762540712402	CVS	On ECG, what characterises an atrial flutter	cardiovascular	diagnostics	ok
+1762540945253	CVS	How to differentiate Atrial fibrillation vs flutter ?	cardiovascular	diagnostics	ok
+1762542161007	CVS	Atrial Flutter : symptoms	cardiovascular	manifestation	ok
+1762551646710	CVS	What does a less than 100 ms QRS mean?	cardiovascular	diagnostics	ok
+1762704595667	CVS	QRS interval range and what it represents	cardiovascular	physiology	ok
+1762704655339	CVS	2 ways to calculate rate in ECG	cardiovascular	diagnostics	ok
+1762704721971	CVS	How many big boxes in 6 second interval (ECG)	cardiovascular	diagnostics	ok
+1762707741649	CVS	Important leads for P-wave	cardiovascular	diagnostics	ok
+1762708402527	CVS	Physiologically what causes a junctional rhythm ?	cardiovascular	pathophysiology	ok
+1762708556539	CVS	Important wave morphology in Junctional Dysrhythmia ?	cardiovascular	diagnostics	ok
+1762710468501	CVS	What is a premature junctional beat	cardiovascular	physiology	ok
+1762710765737	CVS	Characteristics of Junctional escape beat	cardiovascular	diagnostics	ok
+1762711309500	CVS	Physiology of Junctional Rhythm	cardiovascular	pathophysiology	ok
+1762796142901	CVS	Identifying junctional rhythm	cardiovascular	diagnostics	ok
+1762796221083	CVS	How to classify junctional rhythms ?	cardiovascular	diagnostics	ok
+1762797719955	CVS	How to distinguish ventricular dysrhythmia from SVT ?	cardiovascular	diagnostics	ok
+1762797964942	CVS	Mechanism of 1st degree of AV block	cardiovascular	pathophysiology	ok
+1762799202178	CVS	What is a NSVT ?	cardiovascular	physiology	ok
+1762949767254	CVS	On an ECG what charecterizes a 1st degree AV block ?	cardiovascular	diagnostics	ok
+1762949946699	CVS	Physiologically what occurs in a 1st degree AV block ?	cardiovascular	pathophysiology	ok
+1763044834099	CVS	P-R interval normal range?	cardiovascular	physiology	ok
+1763044855916	CVS	QTc normal range?	cardiovascular	physiology	ok
+1763045240573	CVS	Rapid recognition: Polymorphic ventricular tachycardia	cardiovascular	diagnostics	ok
+1763045339379	CVS	Physiology of 2nd degree heart block Type II ?	cardiovascular	pathophysiology	ok
+1763045402897	CVS	Rapid ECG recognition: 2nd degree AV block type I	cardiovascular	diagnostics	ok
+1763045534207	CVS	Difference between 2nd degree AV block type I vs type II (on ECG)	cardiovascular	diagnostics	ok
+1763093318687	CVS	How to calculate QTc ?	cardiovascular	diagnostics	ok
+1763093424096	CVS	What is QTc ?	cardiovascular	physiology	ok
+1763106996999	CVS	CORONARY ARTERY DISEASE (CAD)	cardiovascular	pathophysiology	ok
+1763107052269	CVS	what is acute coronary syndrome (ACS)?	cardiovascular	physiology	ok
+1763107500704	CVS	STEMI vs NSTEMI physiological difference	cardiovascular	pathophysiology	ok
+1763107633764	CVS	Diagnosis for chest pain without exertion, without st elevation and bi	cardiovascular	diagnostics	ok
+1763107780963	CVS	What are the 3 types of angina ?	cardiovascular	physiology	ok
+1763107871405	CVS	What are the two types of variant angina (Prinzmetal angina)?	cardiovascular	physiology	ok
+1763107959998	CVS	What does ST depression and T wave inversion represent?	cardiovascular	diagnostics	ok
+1763107987942	CVS	What does ST elevation and T-wave inversion represent?	cardiovascular	diagnostics	ok
+1763108003178	CVS	What does Q wave represent?	cardiovascular	diagnostics	ok
+1763108227775	CVS	Managment goals for myocardial infarction (MI)	cardiovascular	management	ok
+1763108254350	CVS	Time goal in MI for Fibrinolysis (TNK)?	cardiovascular	management	ok
+1763108272609	CVS	Time goal for PCI in MI ?	cardiovascular	management	ok
+1763110160076	CVS	Which ECG leads tell you if there is a infarct in the Left anterior de	cardiovascular	diagnostics	ok
+1763110238498	CVS	Which leads tell you if there is an infacrt in the Right cornary arter	cardiovascular	diagnostics	ok
+1763110318909	CVS	Which ECG leads tell you if there is an infarct in the circumflex arte	cardiovascular	diagnostics	ok
+1763110404568	CVS	d2c741fc892e406a993e888906a16852-ao-1	cardiovascular	diagnostics	ok
+1763115951487	CVS	Indications for arterial line	cardiovascular	management	ok
+1763116095920	CVS	Two steps to ensure accurate arterial blood pressure	cardiovascular	management	ok
+1763117536742	CVS	What pressure should the fluid bag be in an arterial line ?	cardiovascular	management	ok
+1763117764397	CVS	3 common sites for arterial line	cardiovascular	management	ok
+1763117994329	CVS	How to zero arterial line ?	cardiovascular	management	ok
+1763118029295	CVS	b2c5a3ae63894f958b9d689cfc7c2490-ao-1	cardiovascular	diagnostics	ok
+1763118564046	CVS	Square wave test for arterial line: Adequately damped	cardiovascular	diagnostics	ok
+1763118624662	CVS	Square wave test for arterial line: Over damped	cardiovascular	diagnostics	ok
+1763118681207	CVS	Square wave test for arterial line: Under damped	cardiovascular	diagnostics	ok
+1763118797033	CVS	a0b16eb15173410eb79146e975c18947-ao-1	cardiovascular	diagnostics	ok
+1763118797036	CVS	a0b16eb15173410eb79146e975c18947-ao-2	cardiovascular	diagnostics	ok
+1763119109429	CVS	Normal pulse pressure	cardiovascular	physiology	ok
+1763119215986	CVS	What does pulse pressure indicate?	cardiovascular	physiology	ok
+1763119264113	CVS	What does MAP indicate?	cardiovascular	physiology	ok
+1763121570052	CVS	Central venous cather (CVC) placement	cardiovascular	management	ok
+1763121630769	CVS	Purpose of measuring central venous pressure (CVP)	cardiovascular	diagnostics	ok
+1763121648338	CVS	What is normal central venous pressure	cardiovascular	physiology	ok
+1763122426941	CVS	61c6596612c841819283c0316691156a-ao-1	cardiovascular	diagnostics	ok
+1763122426944	CVS	61c6596612c841819283c0316691156a-ao-2	cardiovascular	diagnostics	ok
+1763122426945	CVS	61c6596612c841819283c0316691156a-ao-3	cardiovascular	diagnostics	ok
+1763122426946	CVS	61c6596612c841819283c0316691156a-ao-4	cardiovascular	diagnostics	ok
+1763122426947	CVS	61c6596612c841819283c0316691156a-ao-5	cardiovascular	diagnostics	ok
+1763122780583	CVS	ABP vs CVP : in what phase of the cardiac rhythm will they peak ?	cardiovascular	diagnostics	ok
+1763123545741	CVS	Normal cardiac output (CO) ? (L/min)	cardiovascular	physiology	ok
+1763123635740	CVS	Normal stroke volume	cardiovascular	physiology	ok
+1763123733762	CVS	What affects preload ?	cardiovascular	physiology	ok
+1763123806192	CVS	What is positive and negative inotropy?	cardiovascular	physiology	ok
+1763123865654	CVS	What is ejection fraction ?	cardiovascular	physiology	ok
+1763123879109	CVS	What is normal ejection fraction ? E	cardiovascular	physiology	ok
+1763123989276	CVS	Amiodarone administeration	cardiovascular	management	ok
+1763125057433	CVS	Adenosine MOA	cardiovascular	physiology	ok
+1763125073452	CVS	Adenosine administration	cardiovascular	management	ok
+1763125190362	CVS	Amiodarone MOA	cardiovascular	physiology	ok
+1763125253303	CVS	Diltazem MOA	cardiovascular	physiology	ok
+1763125287504	CVS	Atropine MOA	cardiovascular	physiology	ok
+1763126470947	CVS	ECG changes in pericarditis	cardiovascular	diagnostics	ok
+1763126507422	CVS	Treatment for pericarditis	cardiovascular	management	ok
+1763126556401	CVS	What is endocarditis ?	cardiovascular	physiology	ok
+1763126644491	CVS	Endocarditis diagnosis	cardiovascular	diagnostics	ok
+1763126717861	CVS	Concerns for endocarditis ?	cardiovascular	complications	ok
+1763126771117	CVS	Managment of endocarditis ?	cardiovascular	management	ok
+1763126846007	CVS	What is Acute heart failure ?	cardiovascular	pathophysiology	ok
+1763127731948	CVS	Foundational pharmacological therapy for acute heart failure ?	cardiovascular	management	ok
+1763127950412	CVS	Hypertensive crisis	cardiovascular	diagnostics	ok
+1763127980166	CVS	Causes of hypertensive crisis	cardiovascular	etiology	ok
+1763128067675	CVS	Hydralazine MOA	cardiovascular	physiology	ok
+1763128221546	CVS	Signs of unstable patient	cardiovascular	manifestation	ok
+1763128362977	CVS	Managment of respiratory arrest	cardiovascular	management	ok
+1763128476010	CVS	Respiratory arrest : once airway established follow up orders	cardiovascular	management	ok
+1763128639564	CVS	What is the critical time period in a cardiac arrest ?	cardiovascular	physiology	ok
+1763128737771	CVS	Quality compression rate and depth	cardiovascular	management	ok
+1763128822687	CVS	What are the different tasks to do during a cardiac arrest ? (6)	cardiovascular	management	ok
+1763129073941	CVS	Three types of electrical therapy ?	cardiovascular	management	ok
+1763129154543	CVS	Indication for defibrillation	cardiovascular	management	ok
+1763129237957	CVS	Indication for synchronized cardioversion ?	cardiovascular	management	ok
+1763129314492	CVS	Indications for transcutaneous pacing ?	cardiovascular	management	ok
+1763129406734	CVS	Epinephrine MOA	cardiovascular	physiology	ok
+1763129456655	CVS	Indication for Epinephrine	cardiovascular	management	ok
+1763129503515	CVS	Indication for amiodarone	cardiovascular	management	ok
+1763129553417	CVS	Post-resuscitation care	cardiovascular	management	ok
+1763129605427	CVS	Indication for targeted temperature managment	cardiovascular	management	ok
+1763129681648	CVS	Torsades de Pointes algorythm	cardiovascular	management	ok
+1764677441425	CVS	How to differentiate STEMI from pericarditis in ECG?	cardiovascular	diagnostics	ok
+1764678891822	CVS	Hypokalemia ECG changes	cardiovascular;fluid-electrolyte	diagnostics	ok
+1764679075312	CVS	Hyperkalemia ECG changes	cardiovascular;fluid-electrolyte	diagnostics	ok
+1764679254295	CVS	Hypocalcemia ECG changes	cardiovascular;fluid-electrolyte	diagnostics	ok
+1764703574736	CVS	How does stenosis affect valves ?	cardiovascular	pathophysiology	ok
+1764703806304	CVS	regurgitation valve disease , what is the valve behavior?	cardiovascular	pathophysiology	ok
+1765746115772	CVS	signs of low CO	cardiovascular	manifestation	ok
+1765769129313	CVS	3 big factors affecting preload	cardiovascular	physiology	ok
+1765772635935	CVS	PA catheter : Right atrial values	cardiovascular	physiology	ok
+1765772754286	CVS	PA catheter : Right ventricular values	cardiovascular	physiology	ok
+1765772839234	CVS	PA catheter : Pulmonic artery values	cardiovascular	physiology	ok
+1765774938512	CVS	Normal PAWP range	cardiovascular	physiology	ok
+1765775071515	CVS	What is PAWP an indirect measure of?	cardiovascular	diagnostics	ok
+1765775542645	CVS	Define preload	cardiovascular	physiology	ok
+1765775734203	CVS	Define afterload	cardiovascular	physiology	ok
+1765775923934	CVS	Afterload formula	cardiovascular	physiology	ok
+1765776758099	CVS	Ejection fraction formula	cardiovascular	physiology	ok
+1765777216207	CVS	What is Cardiac Index	cardiovascular	physiology	ok
+1765970636192	CVS	What is the physiological effect of Mg ?	cardiovascular;fluid-electrolyte	physiology	ok
+1765971238771	CVS	Hypocalcemia vs hypomagnesemia ECG changes	cardiovascular;fluid-electrolyte	diagnostics	ok
+1769620972419	CVS	What remains accurate in an over or under dampened ART line?	cardiovascular	diagnostics	ok
+1770427447707	CVS	V-tach quick ecg recognition	cardiovascular	diagnostics	ok
+1772892501171	CVS	What is electrical storm ?	cardiovascular	physiology	ok
+1773319180917	CVS	SVT electrical pathway	cardiovascular	pathophysiology	ok
+1765779965496	Devices	max capture setting	cardiovascular	physiology	ok
+1765780051044	Devices	Pacemaker: What to adjust if failure to capture ?	cardiovascular	management	ok
+1765780204085	Devices	Pacemaker: What to adjust if failure to sense ?	cardiovascular	management	ok
+1765780319759	Devices	Pacemaker: what to adjust if failure to pace ?	cardiovascular	management	ok
+1765780652751	Devices	What is the benifit of pacing both the atria and ventricles	cardiovascular	physiology	ok
+1771311648225	Devices	PA cath depth markers	cardiovascular	diagnostics	ok
+1771311975151	Devices	PA or IJ location in heart of proximal and distal port	cardiovascular	physiology	ok
+1771346470641	Devices	a93ad29bca254544b63e59179f6cc248-ao-1	cardiovascular	physiology	ok
+1771346628405	Devices	PA cath: What does this thermodilution curve indicate:	cardiovascular	diagnostics	ok
+1771346694417	Devices	PA cath: what is the relationship between the area under the curve and	cardiovascular	diagnostics	ok
+1771346790057	Devices	What does the PAWP measure ? (indirectly)	cardiovascular	diagnostics	ok
+1771346831835	Devices	What is normal cardiac index ?	cardiovascular	physiology	ok
+1771346910743	Devices	PA cath: What is normal SVR	cardiovascular	physiology	ok
+1772305852885	Devices	What is an escape beat when patient is fully paced?	cardiovascular	physiology	ok
+1773431995736	Devices	PA Cath Pressure Numbers: CVP / R. Atrium: {{c1::-1 - 7}} R. Ventricle	cardiovascular	physiology	ok
+1777345411226	Devices	what does area under an ART lime curve represent?	cardiovascular	diagnostics	ok
+1622234922638	GI/ABG	ffa8876ef9f54af594d7f5176fb8d4ad-ao-1	gastrointestinal	physiology	ok
+1707801865492	GI/ABG	Intervention for DKA ?	endocrine	management	ok
+1764504401292	GI/ABG	What are the two types of small bowel obstruction ?	gastrointestinal	physiology	ok
+1764505124707	GI/ABG	What are the 8 causes of small bowel obstruction ?	gastrointestinal	etiology	ok
+1766721213363	GI/ABG	what is base excess?	acid-base	physiology	ok
+1766721504662	GI/ABG	Base excess < -2	acid-base	diagnostics	ok
+1769631956348	GI/ABG	Landmarks for stomach	gastrointestinal	physiology	ok
+1770597143942	GI/ABG	difference between anion gap vs non-anion gap acidosis	acid-base	pathophysiology	ok
+1770597190173	GI/ABG	Test to detect DKA?	endocrine	diagnostics	ok
+1772486701095	GI/ABG	{{c1::Beta-hydroxybutyrate}} is used to detect DKA , with a value of {	endocrine	diagnostics	ok
+1764505939390	GU	Anatomically, where is a nephrostomy placed?	renal	physiology	ok
+1772487258653	GU	Stage 1 AKI Creatnine and urine output	renal	diagnostics	ok
+1771309466855	Pharmacology	continous infusinon = {{c1::insulin regular 100u/100NS}} long acting =	endocrine	physiology	ok
+1771309634171	Pharmacology	Continous insulin infusion - BG does not decrease	endocrine	management	ok
+1771309725709	Pharmacology	SGLT2 inhibitors suffix	endocrine	physiology	ok
+1771309951629	Pharmacology	In EuDKA managment when to stop continous insulin IV infusion	endocrine	management	ok
+1771447539523	Pharmacology	what are the 3 main adrenergic receptors	cardiovascular	physiology	ok
+1773046508257	Pharmacology	WBC can increase when on steroids due to {{c1::demargination}} a proce	hematologic	pathophysiology	ok
+1773046533096	Pharmacology	Neutrophils increase during {{c1::bacterial infections }}	hematologic	diagnostics	ok
+1773046578580	Pharmacology	Esonophils increase during {{c1::allergic reactions and parasitic infe	hematologic	diagnostics	ok
+1773277501555	Pharmacology	Amiodarone prep: high concentration - {{c1::750}}mg/ {{c1::250}}mL {{c	cardiovascular	management	ok
+1774929125259	Pharmacology	Amiodarone electrophysiology effect	cardiovascular	physiology	ok
+1774929459249	Pharmacology	Amiodarone safety check	cardiovascular	management	ok
+1776397167700	Pharmacology	Nitroglycerin , venous or vasodilation ?	cardiovascular	physiology	ok
+1776397370945	Pharmacology	Nitroglycerin : {{c1::Venodilation::veno or vasodilation?}} {{c1::(-) 	cardiovascular	management	ok
+1776397431997	Pharmacology	Nitroprusside : {{c1::Vasodilation::veno or vasodilation?}}. {{c1::(-)	cardiovascular	management	ok
+1763393712039	Respiratory	What is FiO2 ?	respiratory	physiology	ok
+1763393792330	Respiratory	Low flow oxygen delivery: Nasal prongs, FiO2 ?	respiratory	physiology	ok
+1763393935972	Respiratory	Low flow device: Simple mask FiO2 ?	respiratory	physiology	ok
+1763394151090	Respiratory	What is the bottom range of O2 flow rate for simple mask ? Why not go 	respiratory	physiology	ok
+1763394178331	Respiratory	Risk of simple face mask?	respiratory	complications	ok
+1763394243404	Respiratory	Low flow O2 devices: Partial rebreather mask , FiO2 ?	respiratory	physiology	ok
+1763394369893	Respiratory	Difference between partial and non-rebreather mask ?	respiratory	physiology	ok
+1763394478357	Respiratory	Low flow O2 device: Non-rebreather mask , FiO2 ?	respiratory	physiology	ok
+1763394606536	Respiratory	Setup considerations for non-rebreather mask ?	respiratory	management	ok
+1763394874228	Respiratory	What is a high flow O2 system ?	respiratory	physiology	ok
+1763394997541	Respiratory	High flow O2 devices: Heated high flow O2 therapy , flow rate and FiO2	respiratory	physiology	ok
+1763395342282	Respiratory	What is the "dose" when giving O2 therapy?	respiratory	physiology	ok
+1763395421512	Respiratory	Artificial airway , types?	respiratory	physiology	ok
+1763395500708	Respiratory	Artificial airway: Contraindication nasopharyngeal airway?	respiratory	management	ok
+1763395554648	Respiratory	Advantage of Artificial airway: what is an advantage of nasopharyngeal	respiratory	physiology	ok
+1763395809189	Respiratory	Artificial airway: Contrainidications Oropharyngeal airway (OPA) ?	respiratory	management	ok
+1763396116405	Respiratory	Endotracheal tube, location of insertion	respiratory	physiology	ok
+1763396256771	Respiratory	What are the two ports (blue and yellow) of the endotracheal tube	respiratory	physiology	ok
+1763396594700	Respiratory	Artificial airway: Nasotracheal tube , indication ?	respiratory	management	ok
+1763396653409	Respiratory	Artificial airway: Nasotracheal tube , contraindication ?	respiratory	management	ok
+1763396841568	Respiratory	Artificial airway: Tracheostomy indication ?	respiratory	management	ok
+1763399144195	Respiratory	Non-invasive ventilation: what is Bi-PAP ?	respiratory	physiology	ok
+1763399396259	Respiratory	What is the key requirment for BiPAP ? (compared to intubation)	respiratory	physiology	ok
+1763399761554	Respiratory	Contrandication for BiPAP ?	respiratory	management	ok
+1763399825754	Respiratory	In non-invasive ventilation ( BiPAP) , what is the difference between 	respiratory	physiology	ok
+1763400346761	Respiratory	What is minute ventilation ?	respiratory	physiology	ok
+1763400790792	Respiratory	In non-invasive ventilation, what is the tidal volume goal?	respiratory	management	ok
+1763401262995	Respiratory	GCS Objective criteria for intubation	respiratory	diagnostics	ok
+1763401960955	Respiratory	Hemodynamic effect of Positive pressure ventilation ?	respiratory	pathophysiology	ok
+1763402369841	Respiratory	What is used to hyperoxygenate pre-intubation ?	respiratory	management	ok
+1763403519778	Respiratory	Post-intubation checks	respiratory	diagnostics	ok
+1763404616689	Respiratory	What are the two ways breathes are delivered in mechanical ventilation	respiratory	physiology	ok
+1763404727674	Respiratory	Invasive ventilation: What to choose volume ventilation vs pressure ve	respiratory	management	ok
+1763405036021	Respiratory	Invasive ventilation , what are the degrees of support ?	respiratory	physiology	ok
+1763405133540	Respiratory	3 Basic ventilator settings (used for all cases)	respiratory	physiology	ok
+1763405290585	Respiratory	What is PEEP ?	respiratory	physiology	ok
+1763405329909	Respiratory	What are two thing in vent settings to increase pO2 ?	respiratory	management	ok
+1763406309854	Respiratory	What is the minimum PEEP	respiratory	physiology	ok
+1763406546203	Respiratory	Most common full-support ventilator modes? (2)	respiratory	physiology	ok
+1763406644116	Respiratory	What defines Pressure Control (PC) Vent mode?	respiratory	physiology	ok
+1763406939556	Respiratory	What is synchronous intermittent mandatory ventilation (SIMV)	respiratory	physiology	ok
+1763407112079	Respiratory	What is Pressure support ventilation (PSV) mode?	respiratory	physiology	ok
+1763407556307	Respiratory	What is continous positive airway pressure (CPAP) vent mode?	respiratory	physiology	ok
+1763407929144	Respiratory	What are the variables being controled in PRVC vent mode?	respiratory	physiology	ok
+1763408572979	Respiratory	Vent , room safety checks	respiratory	management	ok
+1763408733289	Respiratory	What vent mode: PSV6 and PEEP 5 30%	respiratory	diagnostics	ok
+1763408879348	Respiratory	Vent mode: PRVC 16 / PEEP 12 / FiO₂ 60% / Target VT 600 mL	respiratory	diagnostics	ok
+1763408960499	Respiratory	What vent mode: CPAP / PEEP 5 / FiO₂ 30%	respiratory	diagnostics	ok
+1763481080653	Respiratory	Respiratory rate objective criteria for intubation	respiratory	diagnostics	ok
+1763481258648	Respiratory	pH criteria for intubation	respiratory;acid-base	diagnostics	ok
+1763482612789	Respiratory	What does a high minute ventilation indicate?	respiratory	physiology	ok
+1763482682288	Respiratory	What does a low minute ventilation indicate?	respiratory	physiology	ok
+1763482706954	Respiratory	Tidal volume (Vt) goals?	respiratory	management	ok
+1763554944321	Respiratory	What does this ETCO2 represent?	respiratory	diagnostics	ok
+1763555309196	Respiratory	Pre-intubation inductive (sedative) agents	respiratory	management	ok
+1765083628684	Respiratory	PaO2 indication for intubation ?	respiratory	management	ok
+1765083702340	Respiratory	PaCO2 indication for intubation ?	respiratory	management	ok
+1765084219235	Respiratory	Criteria patient is ready for spontaneous awakening trial (SAT) ?	respiratory	diagnostics	ok
+1765084382244	Respiratory	What are the 3 major steps and time in Fast Track Extubation ?	respiratory	management	ok
+1765084512840	Respiratory	How long does patient stay on PSV after SAT ?	respiratory	management	ok
+1765084901997	Respiratory	VC target in ventilator weaning assessment ?	respiratory	management	ok
+1770438175581	Respiratory	Trach: Steps to decannulation	respiratory	management	ok
+1777112033277	Respiratory	Shunt is the opposite of dead space and consists of alveoli that are {	respiratory	physiology	ok
+1762291604005	Surgery/Post-op/Procedures	Order to draw labs	perioperative	management	ok
+1765969520941	Surgery/Post-op/Procedures	Expected side effects of CPB ?	perioperative	complications	ok
+1765969638804	Surgery/Post-op/Procedures	Ideal cross clamp time	perioperative	physiology	ok
+1770250941843	Surgery/Post-op/Procedures	Blanchable vs non-blanchable erythema ?	integumentary	diagnostics	ok
+1772282614746	Surgery/Post-op/Procedures	staple removal, what day?	integumentary	management	ok
+1774677019428	Surgery/Post-op/Procedures	Drug Indication Dose Rate Notes TXA {{c1:: BLS: 1g/50ml INT: 1g/50ml }	hematologic	management	ok
+1774678101970	Surgery/Post-op/Procedures	Coagulation: PLT : {{c1::130-380 x10 9 /L}} INR : {{c2::0.9–1.2}} aPTT	hematologic	physiology	ok
+1774931454880	Surgery/Post-op/Procedures	CRP > 50 indicate?	hematologic	physiology	ok
+1776084469942	Surgery/Post-op/Procedures	What is defined as excessive post-op bleeding ?	perioperative	complications	ok

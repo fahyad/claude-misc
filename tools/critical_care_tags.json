@@ -1,0 +1,1036 @@
+{
+"1622234922638": [
+"cc::system::gastrointestinal",
+"cc::knowledge::physiology"
+],
+"1707801865492": [
+"cc::system::endocrine",
+"cc::knowledge::management"
+],
+"1762291604005": [
+"cc::system::perioperative",
+"cc::knowledge::management"
+],
+"1762487324825": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762488540680": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762488710171": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762488756614": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762492549939": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762492661218": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762494062168": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762494119507": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762494185696": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762495196982": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762495299905": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762527997453": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1762534959779": [
+"cc::system::cardiovascular",
+"cc::knowledge::etiology"
+],
+"1762540712402": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762540945253": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762542161007": [
+"cc::system::cardiovascular",
+"cc::knowledge::manifestation"
+],
+"1762551646710": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762704595667": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1762704655339": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762704721971": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762707741649": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762708402527": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1762708556539": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762710468501": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1762710765737": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762711309500": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1762796142901": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762796221083": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762797719955": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762797964942": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1762799202178": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1762949767254": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1762949946699": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1763044834099": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763044855916": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763045240573": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763045339379": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1763045402897": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763045534207": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763093318687": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763093424096": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763106996999": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1763107052269": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763107500704": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1763107633764": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763107780963": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763107871405": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763107959998": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763107987942": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763108003178": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763108227775": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763108254350": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763108272609": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763110160076": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763110238498": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763110318909": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763110404568": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763115951487": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763116095920": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763117536742": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763117764397": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763117994329": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763118029295": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763118564046": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763118624662": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763118681207": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763118797033": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763118797036": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763119109429": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763119215986": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763119264113": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763121570052": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763121630769": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763121648338": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763122426941": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763122426944": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763122426945": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763122426946": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763122426947": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763122780583": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763123545741": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763123635740": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763123733762": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763123806192": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763123865654": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763123879109": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763123989276": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763125057433": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763125073452": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763125190362": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763125253303": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763125287504": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763126470947": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763126507422": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763126556401": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763126644491": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763126717861": [
+"cc::system::cardiovascular",
+"cc::knowledge::complications"
+],
+"1763126771117": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763126846007": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1763127731948": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763127950412": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1763127980166": [
+"cc::system::cardiovascular",
+"cc::knowledge::etiology"
+],
+"1763128067675": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763128221546": [
+"cc::system::cardiovascular",
+"cc::knowledge::manifestation"
+],
+"1763128362977": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763128476010": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763128639564": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763128737771": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763128822687": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763129073941": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763129154543": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763129237957": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763129314492": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763129406734": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1763129456655": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763129503515": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763129553417": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763129605427": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763129681648": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1763393712039": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763393792330": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763393935972": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763394151090": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763394178331": [
+"cc::system::respiratory",
+"cc::knowledge::complications"
+],
+"1763394243404": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763394369893": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763394478357": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763394606536": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763394874228": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763394997541": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763395342282": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763395421512": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763395500708": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763395554648": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763395809189": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763396116405": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763396256771": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763396594700": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763396653409": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763396841568": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763399144195": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763399396259": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763399761554": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763399825754": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763400346761": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763400790792": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763401262995": [
+"cc::system::respiratory",
+"cc::knowledge::diagnostics"
+],
+"1763401960955": [
+"cc::system::respiratory",
+"cc::knowledge::pathophysiology"
+],
+"1763402369841": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763403519778": [
+"cc::system::respiratory",
+"cc::knowledge::diagnostics"
+],
+"1763404616689": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763404727674": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763405036021": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763405133540": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763405290585": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763405329909": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763406309854": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763406546203": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763406644116": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763406939556": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763407112079": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763407556307": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763407929144": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763408572979": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763408733289": [
+"cc::system::respiratory",
+"cc::knowledge::diagnostics"
+],
+"1763408879348": [
+"cc::system::respiratory",
+"cc::knowledge::diagnostics"
+],
+"1763408960499": [
+"cc::system::respiratory",
+"cc::knowledge::diagnostics"
+],
+"1763481080653": [
+"cc::system::respiratory",
+"cc::knowledge::diagnostics"
+],
+"1763481258648": [
+"cc::system::respiratory",
+"cc::system::acid-base",
+"cc::knowledge::diagnostics"
+],
+"1763482612789": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763482682288": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1763482706954": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1763554944321": [
+"cc::system::respiratory",
+"cc::knowledge::diagnostics"
+],
+"1763555309196": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1764504401292": [
+"cc::system::gastrointestinal",
+"cc::knowledge::physiology"
+],
+"1764505124707": [
+"cc::system::gastrointestinal",
+"cc::knowledge::etiology"
+],
+"1764505939390": [
+"cc::system::renal",
+"cc::knowledge::physiology"
+],
+"1764677441425": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1764678891822": [
+"cc::system::cardiovascular",
+"cc::system::fluid-electrolyte",
+"cc::knowledge::diagnostics"
+],
+"1764679075312": [
+"cc::system::cardiovascular",
+"cc::system::fluid-electrolyte",
+"cc::knowledge::diagnostics"
+],
+"1764679254295": [
+"cc::system::cardiovascular",
+"cc::system::fluid-electrolyte",
+"cc::knowledge::diagnostics"
+],
+"1764703574736": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1764703806304": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1765083628684": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1765083702340": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1765084219235": [
+"cc::system::respiratory",
+"cc::knowledge::diagnostics"
+],
+"1765084382244": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1765084512840": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1765084901997": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1765746115772": [
+"cc::system::cardiovascular",
+"cc::knowledge::manifestation"
+],
+"1765769129313": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765772635935": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765772754286": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765772839234": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765774938512": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765775071515": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1765775542645": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765775734203": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765775923934": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765776758099": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765777216207": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765779965496": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765780051044": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1765780204085": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1765780319759": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1765780652751": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1765969520941": [
+"cc::system::perioperative",
+"cc::knowledge::complications"
+],
+"1765969638804": [
+"cc::system::perioperative",
+"cc::knowledge::physiology"
+],
+"1765970636192": [
+"cc::system::cardiovascular",
+"cc::system::fluid-electrolyte",
+"cc::knowledge::physiology"
+],
+"1765971238771": [
+"cc::system::cardiovascular",
+"cc::system::fluid-electrolyte",
+"cc::knowledge::diagnostics"
+],
+"1766721213363": [
+"cc::system::acid-base",
+"cc::knowledge::physiology"
+],
+"1766721504662": [
+"cc::system::acid-base",
+"cc::knowledge::diagnostics"
+],
+"1769620972419": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1769631956348": [
+"cc::system::gastrointestinal",
+"cc::knowledge::physiology"
+],
+"1770250941843": [
+"cc::system::integumentary",
+"cc::knowledge::diagnostics"
+],
+"1770427447707": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1770438175581": [
+"cc::system::respiratory",
+"cc::knowledge::management"
+],
+"1770597143942": [
+"cc::system::acid-base",
+"cc::knowledge::pathophysiology"
+],
+"1770597190173": [
+"cc::system::endocrine",
+"cc::knowledge::diagnostics"
+],
+"1771309466855": [
+"cc::system::endocrine",
+"cc::knowledge::physiology"
+],
+"1771309634171": [
+"cc::system::endocrine",
+"cc::knowledge::management"
+],
+"1771309725709": [
+"cc::system::endocrine",
+"cc::knowledge::physiology"
+],
+"1771309951629": [
+"cc::system::endocrine",
+"cc::knowledge::management"
+],
+"1771311648225": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1771311975151": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1771346470641": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1771346628405": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1771346694417": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1771346790057": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+],
+"1771346831835": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1771346910743": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1771447539523": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1772282614746": [
+"cc::system::integumentary",
+"cc::knowledge::management"
+],
+"1772305852885": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1772486701095": [
+"cc::system::endocrine",
+"cc::knowledge::diagnostics"
+],
+"1772487258653": [
+"cc::system::renal",
+"cc::knowledge::diagnostics"
+],
+"1772892501171": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1773046508257": [
+"cc::system::hematologic",
+"cc::knowledge::pathophysiology"
+],
+"1773046533096": [
+"cc::system::hematologic",
+"cc::knowledge::diagnostics"
+],
+"1773046578580": [
+"cc::system::hematologic",
+"cc::knowledge::diagnostics"
+],
+"1773277501555": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1773319180917": [
+"cc::system::cardiovascular",
+"cc::knowledge::pathophysiology"
+],
+"1773431995736": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1774677019428": [
+"cc::system::hematologic",
+"cc::knowledge::management"
+],
+"1774678101970": [
+"cc::system::hematologic",
+"cc::knowledge::physiology"
+],
+"1774929125259": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1774929459249": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1774931454880": [
+"cc::system::hematologic",
+"cc::knowledge::physiology"
+],
+"1776084469942": [
+"cc::system::perioperative",
+"cc::knowledge::complications"
+],
+"1776397167700": [
+"cc::system::cardiovascular",
+"cc::knowledge::physiology"
+],
+"1776397370945": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1776397431997": [
+"cc::system::cardiovascular",
+"cc::knowledge::management"
+],
+"1777112033277": [
+"cc::system::respiratory",
+"cc::knowledge::physiology"
+],
+"1777345411226": [
+"cc::system::cardiovascular",
+"cc::knowledge::diagnostics"
+]
+}

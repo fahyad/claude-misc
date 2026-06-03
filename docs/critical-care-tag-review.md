@@ -1,5 +1,10 @@
 # Critical Care — tag system review (post-application audit)
 
+> **RESOLVED in v1.3** (see `critical-care-tag-system.md`): enforced a physiology vs
+> pathophysiology entity rule (§3), did the cross-system pass — 12 cards now span >1 system
+> (§2), allowed dual knowledge on 3 cards (§5), and fixed CRP → diagnostics (§4). The
+> mapping (`critical-care-tag-mapping.tsv` / `critical_care_tags.json`) reflects these.
+
 _Method: every one of the 257 tagged notes was re-read **front AND back** against its
 assigned `cc::system::*` / `cc::knowledge::*` tags (the classifier only saw the front). This
 is a critical audit — it reports what does **not** fit, not just what does._

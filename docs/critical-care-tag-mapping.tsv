@@ -22,14 +22,14 @@ note_id	old_deck	front	systems	knowledge	confidence
 1762707741649	CVS	Important leads for P-wave	cardiovascular	diagnostics	ok
 1762708402527	CVS	Physiologically what causes a junctional rhythm ?	cardiovascular	pathophysiology	ok
 1762708556539	CVS	Important wave morphology in Junctional Dysrhythmia ?	cardiovascular	diagnostics	ok
-1762710468501	CVS	What is a premature junctional beat	cardiovascular	physiology	ok
+1762710468501	CVS	What is a premature junctional beat	cardiovascular	pathophysiology	ok
 1762710765737	CVS	Characteristics of Junctional escape beat	cardiovascular	diagnostics	ok
 1762711309500	CVS	Physiology of Junctional Rhythm	cardiovascular	pathophysiology	ok
 1762796142901	CVS	Identifying junctional rhythm	cardiovascular	diagnostics	ok
 1762796221083	CVS	How to classify junctional rhythms ?	cardiovascular	diagnostics	ok
 1762797719955	CVS	How to distinguish ventricular dysrhythmia from SVT ?	cardiovascular	diagnostics	ok
 1762797964942	CVS	Mechanism of 1st degree of AV block	cardiovascular	pathophysiology	ok
-1762799202178	CVS	What is a NSVT ?	cardiovascular	physiology	ok
+1762799202178	CVS	What is a NSVT ?	cardiovascular	pathophysiology	ok
 1762949767254	CVS	On an ECG what charecterizes a 1st degree AV block ?	cardiovascular	diagnostics	ok
 1762949946699	CVS	Physiologically what occurs in a 1st degree AV block ?	cardiovascular	pathophysiology	ok
 1763044834099	CVS	P-R interval normal range?	cardiovascular	physiology	ok
@@ -41,11 +41,11 @@ note_id	old_deck	front	systems	knowledge	confidence
 1763093318687	CVS	How to calculate QTc ?	cardiovascular	diagnostics	ok
 1763093424096	CVS	What is QTc ?	cardiovascular	physiology	ok
 1763106996999	CVS	CORONARY ARTERY DISEASE (CAD)	cardiovascular	pathophysiology	ok
-1763107052269	CVS	what is acute coronary syndrome (ACS)?	cardiovascular	physiology	ok
+1763107052269	CVS	what is acute coronary syndrome (ACS)?	cardiovascular	pathophysiology	ok
 1763107500704	CVS	STEMI vs NSTEMI physiological difference	cardiovascular	pathophysiology	ok
 1763107633764	CVS	Diagnosis for chest pain without exertion, without st elevation and bi	cardiovascular	diagnostics	ok
-1763107780963	CVS	What are the 3 types of angina ?	cardiovascular	physiology	ok
-1763107871405	CVS	What are the two types of variant angina (Prinzmetal angina)?	cardiovascular	physiology	ok
+1763107780963	CVS	What are the 3 types of angina ?	cardiovascular	pathophysiology	ok
+1763107871405	CVS	What are the two types of variant angina (Prinzmetal angina)?	cardiovascular	pathophysiology	ok
 1763107959998	CVS	What does ST depression and T wave inversion represent?	cardiovascular	diagnostics	ok
 1763107987942	CVS	What does ST elevation and T-wave inversion represent?	cardiovascular	diagnostics	ok
 1763108003178	CVS	What does Q wave represent?	cardiovascular	diagnostics	ok
@@ -93,7 +93,7 @@ note_id	old_deck	front	systems	knowledge	confidence
 1763125287504	CVS	Atropine MOA	cardiovascular	physiology	ok
 1763126470947	CVS	ECG changes in pericarditis	cardiovascular	diagnostics	ok
 1763126507422	CVS	Treatment for pericarditis	cardiovascular	management	ok
-1763126556401	CVS	What is endocarditis ?	cardiovascular	physiology	ok
+1763126556401	CVS	What is endocarditis ?	cardiovascular	pathophysiology	ok
 1763126644491	CVS	Endocarditis diagnosis	cardiovascular	diagnostics	ok
 1763126717861	CVS	Concerns for endocarditis ?	cardiovascular	complications	ok
 1763126771117	CVS	Managment of endocarditis ?	cardiovascular	management	ok
@@ -103,8 +103,8 @@ note_id	old_deck	front	systems	knowledge	confidence
 1763127980166	CVS	Causes of hypertensive crisis	cardiovascular	etiology	ok
 1763128067675	CVS	Hydralazine MOA	cardiovascular	physiology	ok
 1763128221546	CVS	Signs of unstable patient	cardiovascular	manifestation	ok
-1763128362977	CVS	Managment of respiratory arrest	cardiovascular	management	ok
-1763128476010	CVS	Respiratory arrest : once airway established follow up orders	cardiovascular	management	ok
+1763128362977	CVS	Managment of respiratory arrest	respiratory	management	ok
+1763128476010	CVS	Respiratory arrest : once airway established follow up orders	respiratory	management	ok
 1763128639564	CVS	What is the critical time period in a cardiac arrest ?	cardiovascular	physiology	ok
 1763128737771	CVS	Quality compression rate and depth	cardiovascular	management	ok
 1763128822687	CVS	What are the different tasks to do during a cardiac arrest ? (6)	cardiovascular	management	ok
@@ -140,7 +140,7 @@ note_id	old_deck	front	systems	knowledge	confidence
 1765971238771	CVS	Hypocalcemia vs hypomagnesemia ECG changes	cardiovascular;fluid-electrolyte	diagnostics	ok
 1769620972419	CVS	What remains accurate in an over or under dampened ART line?	cardiovascular	diagnostics	ok
 1770427447707	CVS	V-tach quick ecg recognition	cardiovascular	diagnostics	ok
-1772892501171	CVS	What is electrical storm ?	cardiovascular	physiology	ok
+1772892501171	CVS	What is electrical storm ?	cardiovascular	pathophysiology	ok
 1773319180917	CVS	SVT electrical pathway	cardiovascular	pathophysiology	ok
 1765779965496	Devices	max capture setting	cardiovascular	physiology	ok
 1765780051044	Devices	Pacemaker: What to adjust if failure to capture ?	cardiovascular	management	ok
@@ -155,12 +155,12 @@ note_id	old_deck	front	systems	knowledge	confidence
 1771346790057	Devices	What does the PAWP measure ? (indirectly)	cardiovascular	diagnostics	ok
 1771346831835	Devices	What is normal cardiac index ?	cardiovascular	physiology	ok
 1771346910743	Devices	PA cath: What is normal SVR	cardiovascular	physiology	ok
-1772305852885	Devices	What is an escape beat when patient is fully paced?	cardiovascular	physiology	ok
+1772305852885	Devices	What is an escape beat when patient is fully paced?	cardiovascular	pathophysiology	ok
 1773431995736	Devices	PA Cath Pressure Numbers: CVP / R. Atrium: {{c1::-1 - 7}} R. Ventricle	cardiovascular	physiology	ok
 1777345411226	Devices	what does area under an ART lime curve represent?	cardiovascular	diagnostics	ok
 1622234922638	GI/ABG	ffa8876ef9f54af594d7f5176fb8d4ad-ao-1	gastrointestinal	physiology	ok
-1707801865492	GI/ABG	Intervention for DKA ?	endocrine	management	ok
-1764504401292	GI/ABG	What are the two types of small bowel obstruction ?	gastrointestinal	physiology	ok
+1707801865492	GI/ABG	Intervention for DKA ?	endocrine;fluid-electrolyte;acid-base	management	ok
+1764504401292	GI/ABG	What are the two types of small bowel obstruction ?	gastrointestinal	pathophysiology	ok
 1764505124707	GI/ABG	What are the 8 causes of small bowel obstruction ?	gastrointestinal	etiology	ok
 1766721213363	GI/ABG	what is base excess?	acid-base	physiology	ok
 1766721504662	GI/ABG	Base excess < -2	acid-base	diagnostics	ok
@@ -182,8 +182,8 @@ note_id	old_deck	front	systems	knowledge	confidence
 1774929125259	Pharmacology	Amiodarone electrophysiology effect	cardiovascular	physiology	ok
 1774929459249	Pharmacology	Amiodarone safety check	cardiovascular	management	ok
 1776397167700	Pharmacology	Nitroglycerin , venous or vasodilation ?	cardiovascular	physiology	ok
-1776397370945	Pharmacology	Nitroglycerin : {{c1::Venodilation::veno or vasodilation?}} {{c1::(-) 	cardiovascular	management	ok
-1776397431997	Pharmacology	Nitroprusside : {{c1::Vasodilation::veno or vasodilation?}}. {{c1::(-)	cardiovascular	management	ok
+1776397370945	Pharmacology	Nitroglycerin : {{c1::Venodilation::veno or vasodilation?}} {{c1::(-) 	cardiovascular	physiology;management	ok
+1776397431997	Pharmacology	Nitroprusside : {{c1::Vasodilation::veno or vasodilation?}}. {{c1::(-)	cardiovascular	physiology;management	ok
 1763393712039	Respiratory	What is FiO2 ?	respiratory	physiology	ok
 1763393792330	Respiratory	Low flow oxygen delivery: Nasal prongs, FiO2 ?	respiratory	physiology	ok
 1763393935972	Respiratory	Low flow device: Simple mask FiO2 ?	respiratory	physiology	ok
@@ -212,7 +212,7 @@ note_id	old_deck	front	systems	knowledge	confidence
 1763400346761	Respiratory	What is minute ventilation ?	respiratory	physiology	ok
 1763400790792	Respiratory	In non-invasive ventilation, what is the tidal volume goal?	respiratory	management	ok
 1763401262995	Respiratory	GCS Objective criteria for intubation	respiratory	diagnostics	ok
-1763401960955	Respiratory	Hemodynamic effect of Positive pressure ventilation ?	respiratory	pathophysiology	ok
+1763401960955	Respiratory	Hemodynamic effect of Positive pressure ventilation ?	respiratory;cardiovascular	pathophysiology	ok
 1763402369841	Respiratory	What is used to hyperoxygenate pre-intubation ?	respiratory	management	ok
 1763403519778	Respiratory	Post-intubation checks	respiratory	diagnostics	ok
 1763404616689	Respiratory	What are the two ways breathes are delivered in mechanical ventilation	respiratory	physiology	ok
@@ -239,20 +239,20 @@ note_id	old_deck	front	systems	knowledge	confidence
 1763482706954	Respiratory	Tidal volume (Vt) goals?	respiratory	management	ok
 1763554944321	Respiratory	What does this ETCO2 represent?	respiratory	diagnostics	ok
 1763555309196	Respiratory	Pre-intubation inductive (sedative) agents	respiratory	management	ok
-1765083628684	Respiratory	PaO2 indication for intubation ?	respiratory	management	ok
-1765083702340	Respiratory	PaCO2 indication for intubation ?	respiratory	management	ok
-1765084219235	Respiratory	Criteria patient is ready for spontaneous awakening trial (SAT) ?	respiratory	diagnostics	ok
+1765083628684	Respiratory	PaO2 indication for intubation ?	respiratory;acid-base	management	ok
+1765083702340	Respiratory	PaCO2 indication for intubation ?	respiratory;acid-base	management	ok
+1765084219235	Respiratory	Criteria patient is ready for spontaneous awakening trial (SAT) ?	respiratory;acid-base	diagnostics	ok
 1765084382244	Respiratory	What are the 3 major steps and time in Fast Track Extubation ?	respiratory	management	ok
 1765084512840	Respiratory	How long does patient stay on PSV after SAT ?	respiratory	management	ok
 1765084901997	Respiratory	VC target in ventilator weaning assessment ?	respiratory	management	ok
 1770438175581	Respiratory	Trach: Steps to decannulation	respiratory	management	ok
 1777112033277	Respiratory	Shunt is the opposite of dead space and consists of alveoli that are {	respiratory	physiology	ok
 1762291604005	Surgery/Post-op/Procedures	Order to draw labs	perioperative	management	ok
-1765969520941	Surgery/Post-op/Procedures	Expected side effects of CPB ?	perioperative	complications	ok
-1765969638804	Surgery/Post-op/Procedures	Ideal cross clamp time	perioperative	physiology	ok
+1765969520941	Surgery/Post-op/Procedures	Expected side effects of CPB ?	perioperative;acid-base;fluid-electrolyte;hematologic	complications	ok
+1765969638804	Surgery/Post-op/Procedures	Ideal cross clamp time	perioperative	physiology;complications	ok
 1770250941843	Surgery/Post-op/Procedures	Blanchable vs non-blanchable erythema ?	integumentary	diagnostics	ok
 1772282614746	Surgery/Post-op/Procedures	staple removal, what day?	integumentary	management	ok
 1774677019428	Surgery/Post-op/Procedures	Drug Indication Dose Rate Notes TXA {{c1:: BLS: 1g/50ml INT: 1g/50ml }	hematologic	management	ok
 1774678101970	Surgery/Post-op/Procedures	Coagulation: PLT : {{c1::130-380 x10 9 /L}} INR : {{c2::0.9–1.2}} aPTT	hematologic	physiology	ok
-1774931454880	Surgery/Post-op/Procedures	CRP > 50 indicate?	hematologic	physiology	ok
+1774931454880	Surgery/Post-op/Procedures	CRP > 50 indicate?	hematologic	diagnostics	ok
 1776084469942	Surgery/Post-op/Procedures	What is defined as excessive post-op bleeding ?	perioperative	complications	ok

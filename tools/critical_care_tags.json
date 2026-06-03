@@ -5,6 +5,8 @@
 ],
 "1707801865492": [
 "cc::system::endocrine",
+"cc::system::fluid-electrolyte",
+"cc::system::acid-base",
 "cc::knowledge::management"
 ],
 "1762291604005": [
@@ -105,7 +107,7 @@
 ],
 "1762710468501": [
 "cc::system::cardiovascular",
-"cc::knowledge::physiology"
+"cc::knowledge::pathophysiology"
 ],
 "1762710765737": [
 "cc::system::cardiovascular",
@@ -133,7 +135,7 @@
 ],
 "1762799202178": [
 "cc::system::cardiovascular",
-"cc::knowledge::physiology"
+"cc::knowledge::pathophysiology"
 ],
 "1762949767254": [
 "cc::system::cardiovascular",
@@ -181,7 +183,7 @@
 ],
 "1763107052269": [
 "cc::system::cardiovascular",
-"cc::knowledge::physiology"
+"cc::knowledge::pathophysiology"
 ],
 "1763107500704": [
 "cc::system::cardiovascular",
@@ -193,11 +195,11 @@
 ],
 "1763107780963": [
 "cc::system::cardiovascular",
-"cc::knowledge::physiology"
+"cc::knowledge::pathophysiology"
 ],
 "1763107871405": [
 "cc::system::cardiovascular",
-"cc::knowledge::physiology"
+"cc::knowledge::pathophysiology"
 ],
 "1763107959998": [
 "cc::system::cardiovascular",
@@ -389,7 +391,7 @@
 ],
 "1763126556401": [
 "cc::system::cardiovascular",
-"cc::knowledge::physiology"
+"cc::knowledge::pathophysiology"
 ],
 "1763126644491": [
 "cc::system::cardiovascular",
@@ -428,11 +430,11 @@
 "cc::knowledge::manifestation"
 ],
 "1763128362977": [
-"cc::system::cardiovascular",
+"cc::system::respiratory",
 "cc::knowledge::management"
 ],
 "1763128476010": [
-"cc::system::cardiovascular",
+"cc::system::respiratory",
 "cc::knowledge::management"
 ],
 "1763128639564": [
@@ -601,6 +603,7 @@
 ],
 "1763401960955": [
 "cc::system::respiratory",
+"cc::system::cardiovascular",
 "cc::knowledge::pathophysiology"
 ],
 "1763402369841": [
@@ -710,7 +713,7 @@
 ],
 "1764504401292": [
 "cc::system::gastrointestinal",
-"cc::knowledge::physiology"
+"cc::knowledge::pathophysiology"
 ],
 "1764505124707": [
 "cc::system::gastrointestinal",
@@ -749,14 +752,17 @@
 ],
 "1765083628684": [
 "cc::system::respiratory",
+"cc::system::acid-base",
 "cc::knowledge::management"
 ],
 "1765083702340": [
 "cc::system::respiratory",
+"cc::system::acid-base",
 "cc::knowledge::management"
 ],
 "1765084219235": [
 "cc::system::respiratory",
+"cc::system::acid-base",
 "cc::knowledge::diagnostics"
 ],
 "1765084382244": [
@@ -841,11 +847,15 @@
 ],
 "1765969520941": [
 "cc::system::perioperative",
+"cc::system::acid-base",
+"cc::system::fluid-electrolyte",
+"cc::system::hematologic",
 "cc::knowledge::complications"
 ],
 "1765969638804": [
 "cc::system::perioperative",
-"cc::knowledge::physiology"
+"cc::knowledge::physiology",
+"cc::knowledge::complications"
 ],
 "1765970636192": [
 "cc::system::cardiovascular",
@@ -951,7 +961,7 @@
 ],
 "1772305852885": [
 "cc::system::cardiovascular",
-"cc::knowledge::physiology"
+"cc::knowledge::pathophysiology"
 ],
 "1772486701095": [
 "cc::system::endocrine",
@@ -963,7 +973,7 @@
 ],
 "1772892501171": [
 "cc::system::cardiovascular",
-"cc::knowledge::physiology"
+"cc::knowledge::pathophysiology"
 ],
 "1773046508257": [
 "cc::system::hematologic",
@@ -1007,7 +1017,7 @@
 ],
 "1774931454880": [
 "cc::system::hematologic",
-"cc::knowledge::physiology"
+"cc::knowledge::diagnostics"
 ],
 "1776084469942": [
 "cc::system::perioperative",
@@ -1019,10 +1029,12 @@
 ],
 "1776397370945": [
 "cc::system::cardiovascular",
+"cc::knowledge::physiology",
 "cc::knowledge::management"
 ],
 "1776397431997": [
 "cc::system::cardiovascular",
+"cc::knowledge::physiology",
 "cc::knowledge::management"
 ],
 "1777112033277": [

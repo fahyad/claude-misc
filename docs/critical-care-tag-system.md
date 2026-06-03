@@ -4,6 +4,17 @@ _Proposal only — nothing applied to the collection. Supersedes v0.x, v1.0, and
 v1.2 renames the two axes to **`system`** and **`knowledge`** and flattens every value to a
 single level (no system has sub-levels), so all tags are exactly `cc::<axis>::<value>`._
 
+## v1.3 refinements (from the post-application review — see critical-care-tag-review.md)
+- **physiology vs pathophysiology rule enforced:** a disease/disorder *entity* (its
+  definition, types/classification, or mechanism) → `pathophysiology`; *normal* function,
+  normal values, concepts/formulas, and drug MOA → `physiology`. Definitions of non-disease
+  concepts/devices (PEEP, BiPAP, cardiac index) stay `physiology`.
+- **Dual knowledge allowed:** a card that genuinely bundles two knowledge types may carry
+  two `cc::knowledge::` tags (e.g. nitroglycerin = `physiology` + `management`). Kept rare.
+- **Cross-system pass:** systems applied from *back* content too (CPB → acid-base +
+  fluid-electrolyte + hematologic; PPV→CO → +cardiovascular; DKA → +fluid-electrolyte +
+  acid-base; ABG-based intubation criteria → +acid-base). 12 cards now span >1 system.
+
 ## What changed v1.1 → v1.2
 - Axis 1 renamed `topic` → **`system`**.
 - Axis 2 renamed `know` → **`knowledge`** (fully spelled out).

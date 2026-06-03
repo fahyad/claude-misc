@@ -81,6 +81,40 @@ OVERRIDES: dict[int, dict] = {nid: {"knowledge": kn} for kn, ids in _KN.items() 
 OVERRIDES[1773046578580] = {"system": ["hematologic"], "knowledge": "diagnostics"}  # "Esonophils" misspelled
 OVERRIDES[1765970636192] = {"system": ["cardiovascular", "fluid-electrolyte"]}      # Mg effect
 
+# --- v1.3 refinements (from the post-application review) -------------------------
+# Rule: a disease/disorder ENTITY (its definition / types / mechanism) -> pathophysiology.
+# Normal function/values/concepts and drug MOA stay physiology.
+_V13_PATHO = [
+    1763107052269,  # what is ACS
+    1763107780963,  # 3 types of angina
+    1763107871405,  # two types of variant angina
+    1762799202178,  # what is a NSVT
+    1762710468501,  # what is a premature junctional beat
+    1763126556401,  # what is endocarditis
+    1772892501171,  # what is electrical storm
+    1764504401292,  # two types of small bowel obstruction
+    1772305852885,  # escape beat when fully paced (failure mechanism)
+]
+_V13 = {nid: {"knowledge": "pathophysiology"} for nid in _V13_PATHO}
+_V13.update({
+    1774931454880: {"knowledge": "diagnostics"},                       # CRP>50 = interpret abnormal lab
+    # dual knowledge (cards bundling two knowledge types)
+    1776397370945: {"knowledge": ["physiology", "management"]},        # nitroglycerin (MOA + indications)
+    1776397431997: {"knowledge": ["physiology", "management"]},        # nitroprusside (MOA + indication)
+    1765969638804: {"knowledge": ["physiology", "complications"]},     # ideal cross-clamp time + sequelae
+    # cross-system enrichment (polyhierarchy from back content)
+    1765969520941: {"system": ["perioperative", "acid-base", "fluid-electrolyte", "hematologic"],
+                    "knowledge": "complications"},                     # CPB side effects
+    1763401960955: {"system": ["respiratory", "cardiovascular"], "knowledge": "pathophysiology"},  # PPV -> low CO
+    1707801865492: {"system": ["endocrine", "fluid-electrolyte", "acid-base"], "knowledge": "management"},  # DKA Rx
+    1765083628684: {"system": ["respiratory", "acid-base"], "knowledge": "management"},  # PaO2 criterion
+    1765083702340: {"system": ["respiratory", "acid-base"], "knowledge": "management"},  # PaCO2 criterion
+    1765084219235: {"system": ["respiratory", "acid-base"], "knowledge": "diagnostics"},  # SAT criteria (pH/lactate)
+    1763128362977: {"system": ["respiratory"], "knowledge": "management"},   # mgmt of respiratory arrest
+    1763128476010: {"system": ["respiratory"], "knowledge": "management"},   # respiratory arrest follow-up
+})
+OVERRIDES.update(_V13)
+
 
 def clean(text: str) -> str:
     text = text.replace("\n", " ")
@@ -266,13 +300,15 @@ def main() -> int:
             systems = OVERRIDES[nid].get("system", systems)
             knowledge = OVERRIDES[nid].get("knowledge", knowledge)
             conf = True
-        tags = [f"cc::system::{s}" for s in systems] + [f"cc::knowledge::{knowledge}"]
+        kn_list = knowledge if isinstance(knowledge, list) else [knowledge]
+        tags = [f"cc::system::{s}" for s in systems] + [f"cc::knowledge::{k}" for k in kn_list]
         mapping[str(nid)] = tags
         for s in systems:
             sys_dist[s] += 1
-        kn_dist[knowledge] += 1
+        for k in kn_list:
+            kn_dist[k] += 1
         short_deck = deck.replace("Critical Care::", "") or "(root)"
-        tsv.append(f"{nid}\t{short_deck}\t{front[:70]}\t{';'.join(systems)}\t{knowledge}\t{'ok' if conf else 'REVIEW'}")
+        tsv.append(f"{nid}\t{short_deck}\t{front[:70]}\t{';'.join(systems)}\t{';'.join(kn_list)}\t{'ok' if conf else 'REVIEW'}")
         if not conf:
             review.append((nid, short_deck, front[:70]))
 

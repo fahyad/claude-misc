@@ -1,7 +1,5 @@
-note_id	systems	knowledge	front
-1622234922638	gastrointestinal	physiology	ffa8876ef9f54af594d7f5176fb8d4ad-ao-1
-1707801865492	endocrine;fluid-electrolyte;acid-base	management	Intervention for DKA ?
-1762291604005	perioperative	management	Order to draw labs
+# Hand-authored Critical Care tags (source of truth). Columns: note_id<TAB>systems<TAB>knowledge<TAB>front
+# systems/knowledge are ';'-separated values (no cc:: prefix). Edit this file to retag.
 1762487324825	cardiovascular	management	5 Lead ECG color placement
 1762488540680	cardiovascular	management	12 Lead ECG, where to place V1-V6 electrodes?
 1762488710171	cardiovascular	diagnostics	Is the ECG tracing upward or downward? Average current flow is towards positive lead
@@ -121,6 +119,72 @@ note_id	systems	knowledge	front
 1763129553417	cardiovascular	management	Post-resuscitation care
 1763129605427	cardiovascular	management	Indication for targeted temperature managment
 1763129681648	cardiovascular	management	Torsades de Pointes algorythm
+1764677441425	cardiovascular	diagnostics	How to differentiate STEMI from pericarditis in ECG?
+1764678891822	cardiovascular;fluid-electrolyte	diagnostics	Hypokalemia ECG changes
+1764679075312	cardiovascular;fluid-electrolyte	diagnostics	Hyperkalemia ECG changes
+1764679254295	cardiovascular;fluid-electrolyte	diagnostics	Hypocalcemia ECG changes
+1764703574736	cardiovascular	pathophysiology	How does stenosis affect valves ?
+1764703806304	cardiovascular	pathophysiology	regurgitation valve disease , what is the valve behavior?
+1765746115772	cardiovascular	manifestation	signs of low CO
+1765769129313	cardiovascular	physiology	3 big factors affecting preload
+1765772635935	cardiovascular	physiology	PA catheter : Right atrial values
+1765772754286	cardiovascular	physiology	PA catheter : Right ventricular values
+1765772839234	cardiovascular	physiology	PA catheter : Pulmonic artery values
+1765774938512	cardiovascular	physiology	Normal PAWP range
+1765775071515	cardiovascular	diagnostics	What is PAWP an indirect measure of?
+1765775542645	cardiovascular	physiology	Define preload
+1765775734203	cardiovascular	physiology	Define afterload
+1765775923934	cardiovascular	physiology	Afterload formula
+1765776758099	cardiovascular	physiology	Ejection fraction formula
+1765777216207	cardiovascular	physiology	What is Cardiac Index
+1765970636192	cardiovascular;fluid-electrolyte	physiology	What is the physiological effect of Mg ?
+1765971238771	cardiovascular;fluid-electrolyte	diagnostics	Hypocalcemia vs hypomagnesemia ECG changes
+1769620972419	cardiovascular	diagnostics	What remains accurate in an over or under dampened ART line?
+1770427447707	cardiovascular	diagnostics	V-tach quick ecg recognition
+1772892501171	cardiovascular	pathophysiology	What is electrical storm ?
+1773319180917	cardiovascular	pathophysiology	SVT electrical pathway
+1765779965496	cardiovascular	physiology	max capture setting
+1765780051044	cardiovascular	management	Pacemaker: What to adjust if failure to capture ?
+1765780204085	cardiovascular	management	Pacemaker: What to adjust if failure to sense ?
+1765780319759	cardiovascular	management	Pacemaker: what to adjust if failure to pace ?
+1765780652751	cardiovascular	physiology	What is the benifit of pacing both the atria and ventricles
+1771311648225	cardiovascular	diagnostics	PA cath depth markers [img]
+1771311975151	cardiovascular	physiology	PA or IJ location in heart of proximal and distal port
+1771346470641	cardiovascular	physiology	a93ad29bca254544b63e59179f6cc248-ao-1
+1771346628405	cardiovascular	diagnostics	PA cath: What does this thermodilution curve indicate: [img]
+1771346694417	cardiovascular	diagnostics	PA cath: what is the relationship between the area under the curve and the cardiac output 
+1771346790057	cardiovascular	diagnostics	What does the PAWP measure ? (indirectly)
+1771346831835	cardiovascular	physiology	What is normal cardiac index ?
+1771346910743	cardiovascular	physiology	PA cath: What is normal SVR
+1772305852885	cardiovascular	pathophysiology	What is an escape beat when patient is fully paced?
+1773431995736	cardiovascular	physiology	PA Cath Pressure Numbers: CVP / R. Atrium: {{c1::-1 - 7}} R. Ventricle: {{c1::15-30/0-8}} 
+1777345411226	cardiovascular	diagnostics	what does area under an ART lime curve represent?
+1622234922638	gastrointestinal	physiology	ffa8876ef9f54af594d7f5176fb8d4ad-ao-1
+1707801865492	endocrine;fluid-electrolyte;acid-base	management	Intervention for DKA ?
+1764504401292	gastrointestinal	pathophysiology	What are the two types of small bowel obstruction ?
+1764505124707	gastrointestinal	etiology	What are the 8 causes of small bowel obstruction ?
+1766721213363	acid-base	physiology	what is base excess?
+1766721504662	acid-base	diagnostics	Base excess < -2
+1769631956348	gastrointestinal	physiology	Landmarks for stomach
+1770597143942	acid-base	pathophysiology	difference between anion gap vs non-anion gap acidosis
+1770597190173	endocrine	diagnostics	Test to detect DKA?
+1772486701095	endocrine	diagnostics	{{c1::Beta-hydroxybutyrate}} is used to detect DKA , with a value of {{c2::> 3 mmol/L }} i
+1764505939390	renal	physiology	Anatomically, where is a nephrostomy placed?
+1772487258653	renal	diagnostics	Stage 1 AKI Creatnine and urine output
+1771309466855	endocrine	physiology	continous infusinon = {{c1::insulin regular 100u/100NS}} long acting = {{c2::insulin basag
+1771309634171	endocrine	management	Continous insulin infusion - BG does not decrease
+1771309725709	endocrine	physiology	SGLT2 inhibitors suffix
+1771309951629	endocrine	management	In EuDKA managment when to stop continous insulin IV infusion
+1771447539523	cardiovascular	physiology	what are the 3 main adrenergic receptors
+1773046508257	hematologic	pathophysiology	WBC can increase when on steroids due to {{c1::demargination}} a process where {{c1::WBC c
+1773046533096	hematologic	diagnostics	Neutrophils increase during {{c1::bacterial infections }}
+1773046578580	hematologic	diagnostics	Esonophils increase during {{c1::allergic reactions and parasitic infections.}}
+1773277501555	cardiovascular	management	Amiodarone prep: high concentration - {{c1::750}}mg/ {{c1::250}}mL {{c1::D5W}} low concent
+1774929125259	cardiovascular	physiology	Amiodarone electrophysiology effect
+1774929459249	cardiovascular	management	Amiodarone safety check
+1776397167700	cardiovascular	physiology	Nitroglycerin , venous or vasodilation ?
+1776397370945	cardiovascular	physiology;management	Nitroglycerin : {{c1::Venodilation::veno or vasodilation?}} {{c1::(-) preload:: (-) pre or
+1776397431997	cardiovascular	physiology;management	Nitroprusside : {{c1::Vasodilation::veno or vasodilation?}}. {{c1::(-) afterload::pre or a
 1763393712039	respiratory	physiology	What is FiO2 ?
 1763393792330	respiratory	physiology	Low flow oxygen delivery: Nasal prongs, FiO2 ?
 1763393935972	respiratory	physiology	Low flow device: Simple mask FiO2 ?
@@ -176,83 +240,20 @@ note_id	systems	knowledge	front
 1763482706954	respiratory	management	Tidal volume (Vt) goals?
 1763554944321	respiratory	diagnostics	What does this ETCO2 represent? [img]
 1763555309196	respiratory	management	Pre-intubation inductive (sedative) agents
-1764504401292	gastrointestinal	pathophysiology	What are the two types of small bowel obstruction ?
-1764505124707	gastrointestinal	etiology	What are the 8 causes of small bowel obstruction ?
-1764505939390	renal	physiology	Anatomically, where is a nephrostomy placed?
-1764677441425	cardiovascular	diagnostics	How to differentiate STEMI from pericarditis in ECG?
-1764678891822	cardiovascular;fluid-electrolyte	diagnostics	Hypokalemia ECG changes
-1764679075312	cardiovascular;fluid-electrolyte	diagnostics	Hyperkalemia ECG changes
-1764679254295	cardiovascular;fluid-electrolyte	diagnostics	Hypocalcemia ECG changes
-1764703574736	cardiovascular	pathophysiology	How does stenosis affect valves ?
-1764703806304	cardiovascular	pathophysiology	regurgitation valve disease , what is the valve behavior?
 1765083628684	respiratory;acid-base	diagnostics	PaO2 indication for intubation ?
 1765083702340	respiratory;acid-base	diagnostics	PaCO2 indication for intubation ?
 1765084219235	respiratory;acid-base	diagnostics	Criteria patient is ready for spontaneous awakening trial (SAT) ?
 1765084382244	respiratory	management	What are the 3 major steps and time in Fast Track Extubation ?
 1765084512840	respiratory	management	How long does patient stay on PSV after SAT ?
 1765084901997	respiratory	management	VC target in ventilator weaning assessment ?
-1765746115772	cardiovascular	manifestation	signs of low CO
-1765769129313	cardiovascular	physiology	3 big factors affecting preload
-1765772635935	cardiovascular	physiology	PA catheter : Right atrial values
-1765772754286	cardiovascular	physiology	PA catheter : Right ventricular values
-1765772839234	cardiovascular	physiology	PA catheter : Pulmonic artery values
-1765774938512	cardiovascular	physiology	Normal PAWP range
-1765775071515	cardiovascular	diagnostics	What is PAWP an indirect measure of?
-1765775542645	cardiovascular	physiology	Define preload
-1765775734203	cardiovascular	physiology	Define afterload
-1765775923934	cardiovascular	physiology	Afterload formula
-1765776758099	cardiovascular	physiology	Ejection fraction formula
-1765777216207	cardiovascular	physiology	What is Cardiac Index
-1765779965496	cardiovascular	physiology	max capture setting
-1765780051044	cardiovascular	management	Pacemaker: What to adjust if failure to capture ?
-1765780204085	cardiovascular	management	Pacemaker: What to adjust if failure to sense ?
-1765780319759	cardiovascular	management	Pacemaker: what to adjust if failure to pace ?
-1765780652751	cardiovascular	physiology	What is the benifit of pacing both the atria and ventricles
+1770438175581	respiratory	management	Trach: Steps to decannulation
+1777112033277	respiratory	physiology	Shunt is the opposite of dead space and consists of alveoli that are {{c1::perfused, but n
+1762291604005	perioperative	management	Order to draw labs
 1765969520941	perioperative;acid-base;fluid-electrolyte;hematologic	complications	Expected side effects of CPB ?
 1765969638804	perioperative	physiology;complications	Ideal cross clamp time
-1765970636192	cardiovascular;fluid-electrolyte	physiology	What is the physiological effect of Mg ?
-1765971238771	cardiovascular;fluid-electrolyte	diagnostics	Hypocalcemia vs hypomagnesemia ECG changes
-1766721213363	acid-base	physiology	what is base excess?
-1766721504662	acid-base	diagnostics	Base excess < -2
-1769620972419	cardiovascular	diagnostics	What remains accurate in an over or under dampened ART line?
-1769631956348	gastrointestinal	physiology	Landmarks for stomach
 1770250941843	integumentary	diagnostics	Blanchable vs non-blanchable erythema ?
-1770427447707	cardiovascular	diagnostics	V-tach quick ecg recognition
-1770438175581	respiratory	management	Trach: Steps to decannulation
-1770597143942	acid-base	pathophysiology	difference between anion gap vs non-anion gap acidosis
-1770597190173	endocrine	diagnostics	Test to detect DKA?
-1771309466855	endocrine	physiology	continous infusinon = {{c1::insulin regular 100u/100NS}} long acting = {{c2::insulin basag
-1771309634171	endocrine	management	Continous insulin infusion - BG does not decrease
-1771309725709	endocrine	physiology	SGLT2 inhibitors suffix
-1771309951629	endocrine	management	In EuDKA managment when to stop continous insulin IV infusion
-1771311648225	cardiovascular	diagnostics	PA cath depth markers [img]
-1771311975151	cardiovascular	physiology	PA or IJ location in heart of proximal and distal port
-1771346470641	cardiovascular	physiology	a93ad29bca254544b63e59179f6cc248-ao-1
-1771346628405	cardiovascular	diagnostics	PA cath: What does this thermodilution curve indicate: [img]
-1771346694417	cardiovascular	diagnostics	PA cath: what is the relationship between the area under the curve and the cardiac output 
-1771346790057	cardiovascular	diagnostics	What does the PAWP measure ? (indirectly)
-1771346831835	cardiovascular	physiology	What is normal cardiac index ?
-1771346910743	cardiovascular	physiology	PA cath: What is normal SVR
-1771447539523	cardiovascular	physiology	what are the 3 main adrenergic receptors
 1772282614746	integumentary	management	staple removal, what day?
-1772305852885	cardiovascular	pathophysiology	What is an escape beat when patient is fully paced?
-1772486701095	endocrine	diagnostics	{{c1::Beta-hydroxybutyrate}} is used to detect DKA , with a value of {{c2::> 3 mmol/L }} i
-1772487258653	renal	diagnostics	Stage 1 AKI Creatnine and urine output
-1772892501171	cardiovascular	pathophysiology	What is electrical storm ?
-1773046508257	hematologic	pathophysiology	WBC can increase when on steroids due to {{c1::demargination}} a process where {{c1::WBC c
-1773046533096	hematologic	diagnostics	Neutrophils increase during {{c1::bacterial infections }}
-1773046578580	hematologic	diagnostics	Esonophils increase during {{c1::allergic reactions and parasitic infections.}}
-1773277501555	cardiovascular	management	Amiodarone prep: high concentration - {{c1::750}}mg/ {{c1::250}}mL {{c1::D5W}} low concent
-1773319180917	cardiovascular	pathophysiology	SVT electrical pathway
-1773431995736	cardiovascular	physiology	PA Cath Pressure Numbers: CVP / R. Atrium: {{c1::-1 - 7}} R. Ventricle: {{c1::15-30/0-8}} 
 1774677019428	hematologic;perioperative	management	Drug Indication Dose Rate Notes TXA {{c1:: BLS: 1g/50ml INT: 1g/50ml }} {{c1:: BS: 15min I
 1774678101970	hematologic	physiology	Coagulation: PLT : {{c1::130-380 x10 9 /L}} INR : {{c2::0.9–1.2}} aPTT: {{c3::22-30s}}
-1774929125259	cardiovascular	physiology	Amiodarone electrophysiology effect
-1774929459249	cardiovascular	management	Amiodarone safety check
 1774931454880	hematologic	diagnostics	CRP > 50 indicate?
 1776084469942	perioperative;hematologic	complications	What is defined as excessive post-op bleeding ?
-1776397167700	cardiovascular	physiology	Nitroglycerin , venous or vasodilation ?
-1776397370945	cardiovascular	physiology;management	Nitroglycerin : {{c1::Venodilation::veno or vasodilation?}} {{c1::(-) preload:: (-) pre or
-1776397431997	cardiovascular	physiology;management	Nitroprusside : {{c1::Vasodilation::veno or vasodilation?}}. {{c1::(-) afterload::pre or a
-1777112033277	respiratory	physiology	Shunt is the opposite of dead space and consists of alveoli that are {{c1::perfused, but n
-1777345411226	cardiovascular	diagnostics	what does area under an ART lime curve represent?

@@ -15,11 +15,11 @@
 ],
 "1762487324825": [
 "cc::system::cardiovascular",
-"cc::knowledge::diagnostics"
+"cc::knowledge::management"
 ],
 "1762488540680": [
 "cc::system::cardiovascular",
-"cc::knowledge::diagnostics"
+"cc::knowledge::management"
 ],
 "1762488710171": [
 "cc::system::cardiovascular",
@@ -51,7 +51,7 @@
 ],
 "1762495196982": [
 "cc::system::cardiovascular",
-"cc::knowledge::diagnostics"
+"cc::knowledge::management"
 ],
 "1762495299905": [
 "cc::system::cardiovascular",
@@ -753,12 +753,12 @@
 "1765083628684": [
 "cc::system::respiratory",
 "cc::system::acid-base",
-"cc::knowledge::management"
+"cc::knowledge::diagnostics"
 ],
 "1765083702340": [
 "cc::system::respiratory",
 "cc::system::acid-base",
-"cc::knowledge::management"
+"cc::knowledge::diagnostics"
 ],
 "1765084219235": [
 "cc::system::respiratory",
@@ -1001,6 +1001,7 @@
 ],
 "1774677019428": [
 "cc::system::hematologic",
+"cc::system::perioperative",
 "cc::knowledge::management"
 ],
 "1774678101970": [
@@ -1021,6 +1022,7 @@
 ],
 "1776084469942": [
 "cc::system::perioperative",
+"cc::system::hematologic",
 "cc::knowledge::complications"
 ],
 "1776397167700": [

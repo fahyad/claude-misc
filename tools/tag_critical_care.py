@@ -1,5 +1,12 @@
 #!/usr/bin/env python3
-"""Assign v1.2 (system + knowledge) tags to every Critical Care note.
+"""[SUPERSEDED] Classifier that produced the FIRST-PASS tags.
+
+The source of truth is now the hand-authored tools/critical_care_tags_manual.tsv
+(every note tagged by reading its content), built via tools/build_tags.py. This
+classifier is kept only to show how the initial pass was generated; do not run it
+to regenerate the mapping — edit the manual TSV instead.
+
+Assign v1.2 (system + knowledge) tags to every Critical Care note.
 
 Reads the exported collection in ./decks, selects notes whose cards live in the
 "Critical Care" deck subtree, and assigns:
